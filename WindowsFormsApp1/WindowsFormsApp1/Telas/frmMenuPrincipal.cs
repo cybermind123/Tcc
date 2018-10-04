@@ -16,5 +16,19 @@ namespace WindowsFormsApp1
         {
             InitializeComponent();
         }
+
+        private void eventoToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            frmCadastroEvento tela = new frmCadastroEvento();
+            tela.Show();
+            this.Hide();
+        }
+
+        private void fornecedorToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmCadastroFornecedor tela = new frmCadastroFornecedor();
+            tela.Show();
+            this.Hide();
+        }
     }
 }

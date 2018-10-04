@@ -21,5 +21,12 @@ namespace WindowsFormsApp1
         {
 
         }
+
+        private void btnLogin_Click(object sender, EventArgs e)
+        {
+            frmMenuPrincipal tela = new frmMenuPrincipal();
+            tela.Show();
+            this.Hide();
+        }
     }
 }

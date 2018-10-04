@@ -23,5 +23,12 @@ namespace WindowsFormsApp1
             tela.Show();
             this.Hide();
         }
+
+        private void btnCadastrar_Click(object sender, EventArgs e)
+        {
+            frmCadastrarCliente tela = new frmCadastrarCliente();
+            tela.Show();
+            this.Hide();
+        }
     }
 }
