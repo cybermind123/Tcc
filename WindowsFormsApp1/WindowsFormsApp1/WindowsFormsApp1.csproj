@@ -63,6 +63,7 @@
     <Compile Include="Classes\Program\Funcionario\FuncionarioBusiness.cs" />
     <Compile Include="Classes\Program\Funcionario\FuncionarioDatabase.cs" />
     <Compile Include="Classes\Program\Funcionario\FuncionarioDTO.cs" />
+    <Compile Include="Classes\Program\Permissão\LoginBusiness.cs" />
     <Compile Include="Classes\Program\Servico\ServicoBusiness.cs" />
     <Compile Include="Classes\Program\Servico\ServicoDatabase.cs" />
     <Compile Include="Classes\Program\Servico\ServicoDTO.cs" />
