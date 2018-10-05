@@ -1,0 +1,44 @@
+C:\Users\infoa36\Downloads\Organização de Eventos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Organização de Eventos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Organização de Eventos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Organização de Eventos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Organização de Eventos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+D:\Organização de Eventos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+D:\Organização de Eventos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+D:\Organização de Eventos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\Organização de Eventos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmCadastrarCliente.resources
+D:\Organização de Eventos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmCadastroEvento.resources
+D:\Organização de Eventos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmCadastroFornecedor.resources
+D:\Organização de Eventos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmCadastroFuncionario.resources
+D:\Organização de Eventos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmEstoque.resources
+D:\Organização de Eventos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmInicio.resources
+D:\Organização de Eventos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLogin.resources
+D:\Organização de Eventos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmMenuPrincipal.resources
+D:\Organização de Eventos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmRelatorio.resources
+D:\Organização de Eventos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmRelatórioCliente.resources
+D:\Organização de Eventos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Organização de Eventos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Organização de Eventos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Organização de Eventos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Organização de Eventos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Organização de Eventos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\infoa37\Source\Repos\Tcc\Tcc\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\infoa37\Source\Repos\Tcc\Tcc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\infoa37\Source\Repos\Tcc\Tcc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\infoa37\Source\Repos\Tcc\Tcc\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\infoa37\Source\Repos\Tcc\Tcc\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\infoa37\Source\Repos\Tcc\Tcc\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+C:\Users\infoa37\Source\Repos\Tcc\Tcc\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+C:\Users\infoa37\Source\Repos\Tcc\Tcc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\infoa37\Source\Repos\Tcc\Tcc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmCadastrarCliente.resources
+C:\Users\infoa37\Source\Repos\Tcc\Tcc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmCadastroEvento.resources
+C:\Users\infoa37\Source\Repos\Tcc\Tcc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmCadastroFornecedor.resources
+C:\Users\infoa37\Source\Repos\Tcc\Tcc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmCadastroFuncionario.resources
+C:\Users\infoa37\Source\Repos\Tcc\Tcc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmEstoque.resources
+C:\Users\infoa37\Source\Repos\Tcc\Tcc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmInicio.resources
+C:\Users\infoa37\Source\Repos\Tcc\Tcc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLogin.resources
+C:\Users\infoa37\Source\Repos\Tcc\Tcc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmMenuPrincipal.resources
+C:\Users\infoa37\Source\Repos\Tcc\Tcc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmRelatorio.resources
+C:\Users\infoa37\Source\Repos\Tcc\Tcc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmRelatórioCliente.resources
+C:\Users\infoa37\Source\Repos\Tcc\Tcc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\infoa37\Source\Repos\Tcc\Tcc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
